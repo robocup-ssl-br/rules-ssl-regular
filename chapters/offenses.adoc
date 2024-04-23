@@ -153,7 +153,7 @@ The <<Referee, human referee>> may decide to repeat the <<Kick-Off, kick-off>> o
 NOTE: During <<Stop, stop>>, there is no automatic sanction for being too close to the ball. The referee may still punish a team for <<Unsporting Behavior,unsporting behavior>> by issuing a <<Yellow Card, yellow card>> if it does not respect the required distance. See <<Stop, stop>> for further explanation.
 
 ===== Robot Stop Speed
-A robot must not move faster than 1.5 meters per second during <<Stop, stop>>. A violation of this rule is only counted once per robot and stoppage.
+A robot must not move faster than 0.75 meters per second during <<Stop, stop>>. A violation of this rule is only counted once per robot and stoppage.
 
 There is a grace period of 2 seconds for the robots to slow down.
 
