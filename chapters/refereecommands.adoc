@@ -180,7 +180,7 @@ The match is resumed when
 * <<Force Start, force start>> has been issued.
 * the ball moved at least 0.05 meters following a <<Kick-Off, kick-off>>, <<Free Kick, free kick>> or <<Penalty Kick, penalty kick>>.
 * 10 seconds passed following a <<Kick-Off, kick-off>>.
-* 5 seconds (Division A) or 10 seconds (Division B) passed following a <<Free Kick, free kick>>.
+* 10 seconds passed following a <<Free Kick, free kick>>.
 
 NOTE: see <<Double Touch, double touch>> for the rationale of the 0.05 meter distance
 
