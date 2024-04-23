@@ -5,7 +5,7 @@ An overview of the referee commands and how they interact with the game state, i
 === Stopping The Game
 ==== Stop
 .Definition
-When the stop command is issued, all robots have to slow down to less than 1.5 m/s. Additionally, all robots have to keep at least 0.5 meters distance to the ball and are not allowed to <<Ball Manipulation, manipulate the ball>>.
+When the stop command is issued, all robots have to slow down to less than 0.75 m/s. Additionally, all robots have to keep at least 0.5 meters distance to the ball and are not allowed to <<Ball Manipulation, manipulate the ball>>.
 
 NOTE: If the ball moves very quickly, it is hard to always keep the required distance to the ball, especially since the speed of the robots is limited during stop. Therefore, it is sufficient if it is obvious to the referee that the robots try their best to follow the distance rule.
 
