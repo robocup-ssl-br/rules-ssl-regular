@@ -19,6 +19,9 @@ The <<Referee, referee>> has to force a team to remove a robot from the field if
 A robot must fit inside a 0.18 meters wide and 0.15 meters high cylinder at any point in time. Additionally, the top of the robot must adhere to the standard pattern size and surface constraints.
 
 ==== Dribbling Device
+Observation: The dribbling device will not be allowed in CBR 2024. For future years, <<Technical Committee, technical committee>> will evaluate the possibility of implementing the dribbling device.
+ 
+
 Dribbling devices that actively exert spin on the ball, which keep the ball in contact with the robot are permitted under certain conditions:
 
 * The dribbling device must not elevate the ball from the ground
