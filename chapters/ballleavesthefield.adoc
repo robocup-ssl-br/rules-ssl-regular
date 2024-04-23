@@ -18,7 +18,7 @@ Goal lines are the short <<Field Lines, field lines>> at both ends of the playin
 
 ==== Goal Kick
 .Definition
-The ball has to be placed 0.2 meters from the closest touch line and 1 meter from the goal line.
+The ball has to be placed 0.2 meters from the closest touch line and 0.5 meter from the goal line.
 
 After the ball has been placed, a <<Free Kick, free kick>> is awarded to the opponent of the team that last touched the ball before it left the field.
 
