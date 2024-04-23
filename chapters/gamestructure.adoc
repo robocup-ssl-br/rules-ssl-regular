@@ -32,7 +32,7 @@ The <<Robot Handler, robot handler>> is the only team member that may talk to th
 * The referee ensures a safe match for all humans and robots
 * The referee ensures a fair match according to the rules of the Small Size League
 * The referee ensures that there is no interference by unauthorized persons or team members
-* The referee or assistant referee places the ball for <<Kick-Off, kick-offs>> and <<Penalty Kick, penalties>> (division A) or after every <<Stopping The Game, stoppage>> (division B). Subsequently, the referee resumes the match
+* The referee or assistant referee places the ball for <<Kick-Off, kick-offs>> and <<Penalty Kick, penalties>> or after every <<Stopping The Game, stoppage>>. Subsequently, the referee resumes the match
 * The referee ensures that the game is started and resumed in time
 
 ==== Assistant Referee
@@ -44,7 +44,7 @@ No team members are allowed to talk to the assistant referee.
 
 * The assistant referee indicates when misconduct or any other incident has occurred out of the view of the referee
 * The assistant referee discusses unclear situations with the referee
-* The referee or assistant referee places the ball for <<Kick-Off, kick-offs>> and <<Penalty Kick, penalties>> (division A) or after every <<Stopping The Game, stoppage>> (division B)
+* The referee or assistant referee places the ball for <<Kick-Off, kick-offs>> and <<Penalty Kick, penalties>> or after every <<Stopping The Game, stoppage>>
 
 
 ==== Game Controller Operator
