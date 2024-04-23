@@ -39,9 +39,9 @@ NOTE: During manual ball placement, the game should be in <<Stop, stop>> to allo
 
 No ball placement is required if all of the following constraints are fulfilled:
 
-* The ball is closer than 1m to the designated position.
+* The ball is closer than 0.5m to the designated position.
 * The ball is inside the field.
-* The ball is at least 0.7m away from any defense area.
+* The ball is at least 0.3m away from any defense area.
 * The ball is stationary.
 
 In this case, the game can be continued as soon as all robots keep the required distance for <<Stop, stop>>.
