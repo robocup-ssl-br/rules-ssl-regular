@@ -155,7 +155,7 @@ stoppage. The time is monitored and recorded by the <<Game Controller Operator, 
 
 NOTE: For example, a team may take 2 timeouts of 150 seconds duration and thereafter have only one timeout of up to 120 seconds duration.
 
-During overtime, both teams can use 2 timeouts with a total time of 240 seconds. The number of timeouts and the time not used in regular game are not added.
+During overtime, both teams can use 1 timeouts with a total time of 240 seconds. The number of timeouts and the time not used in regular game are not added.
 
 No timeouts are possible in the <<Shoot-Out, shoot-out>> stage.
 
