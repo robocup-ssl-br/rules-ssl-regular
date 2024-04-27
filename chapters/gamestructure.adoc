@@ -150,12 +150,12 @@ NOTE: As a result, the time needed for a match is much greater than the playing 
 ==== Timeouts
 The <<Robot Handler, robot handler>> has to ask the referee for a timeout. Timeouts are handled like <<Overview, breaks>>, meaning that both teams are allowed to make modifications to their software and hardware (see <<Autonomy>>).
 
-Each team is allocated 3 timeouts at the beginning of the match. A total of 420 seconds is allowed for all timeouts. Timeouts may only be taken during a game
+Each team is allocated 4 timeouts at the beginning of the match. A total of 420 seconds is allowed for all timeouts. Timeouts may only be taken during a game
 stoppage. The time is monitored and recorded by the <<Game Controller Operator, game controller operator>>.
 
-NOTE: For example, a team may take 2 timeouts of 150 seconds duration and thereafter have only one timeout of up to 120 seconds duration.
+NOTE: For example, a team may take 3 timeouts of 110 seconds duration and thereafter have only one timeout of up to 90 seconds duration.
 
-During overtime, both teams can use 1 timeouts with a total time of 240 seconds. The number of timeouts and the time not used in regular game are not added.
+During overtime, both teams can use 2 timeouts with a total time of 240 seconds. The number of timeouts and the time not used in regular game are not added.
 
 No timeouts are possible in the <<Shoot-Out, shoot-out>> stage.
 
