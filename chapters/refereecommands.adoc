@@ -105,8 +105,6 @@ When the kick-off command is issued, all robots have to move to their own half o
 
 When the <<Normal Start, normal start>> command is issued, the kicker is allowed to shoot the ball. A goal may be scored directly from the kick-off.
 
-When the ball is <<Ball In And Out Of Play, in play>>, the kicker may not touch the ball until it has been touched by another robot or the game has been stopped (see <<Double Touch, double touch>>). Also, the restrictions regarding the robot positions are lifted.
-
 .Usage
 Both half times as well as both overtime periods (if needed) start with a kick-off. Chapter <<Match Preparation>> describes how to determine the attacking team.
 
