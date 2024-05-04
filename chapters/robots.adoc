@@ -19,10 +19,9 @@ The <<Referee, referee>> has to force a team to remove a robot from the field if
 A robot must fit inside a 0.18 meters wide and 0.15 meters high cylinder at any point in time. Additionally, the top of the robot must adhere to the standard pattern size and surface constraints.
 
 ==== Dribbling Device
-Observation: The dribbling device will not be allowed in SSL-EL. Robots can have the device, but it will not be allowed activated during the game.
+The dribbling device, present in SSL division B and A, will not be allowed in SSL-EL. Robots can have the device, but it will not be allowed activated during the game.
  
-
-Dribbling devices that actively exert spin on the ball, which keep the ball in contact with the robot are permitted under certain conditions:
+Dribbling devices actively exert spin on the ball, which keeps the ball in contact with the robot. They are limited by these conditions:
 
 * The dribbling device must not elevate the ball from the ground
 * Another robot must be able to remove the ball from a robot with the ball.
