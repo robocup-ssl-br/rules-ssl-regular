@@ -126,6 +126,7 @@ the violation before being penalized additional times.
 
 ===== Attacker Touched Ball In Opponent Defense Area
 The ball must not be touched by a robot, while the robot is partially or fully inside the opponent <<Defense Area, defense area>>.
+
 ===== Robot Speed
 The robot must not exceed a speed of 1.5 meters per second.
 
