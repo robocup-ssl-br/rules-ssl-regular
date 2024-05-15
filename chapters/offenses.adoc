@@ -106,13 +106,6 @@ A robot must not kick the ball over the field boundary such that the ball leaves
 ===== Keeper Held Ball
 The ball must not be kept in the <<Defense Area, defense area>> for more than 10 seconds.
 
-===== Excessive Dribbling
-A robot must not <<Dribbling Device, dribble>> the ball further than 1 meter, measured linearly from the ball location where the dribbling started. A robot begins dribbling when it makes contact with the ball and stops dribbling when there is an observable separation between the ball and the robot.
-
-NOTE: Dribblers can still be used to dribble large distances with the ball as long as the robot periodically loses possession, such as kicking the ball ahead of it as human soccer players often do.
-
-
-
 ==== Non Stopping Fouls
 Fouls in this section do not cause a <<Stop, stop>>.
 Instead, the game continues normally.
