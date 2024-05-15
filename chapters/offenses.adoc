@@ -4,18 +4,6 @@ If there is no progress in the game for 10 seconds while both teams are allowed 
 <<Ball Manipulation, manipulate the ball>>, the game is <<Stop, stopped>>
 and continued by a <<Force Start, forced start>>.
 
-=== Double Touch
-When the ball is brought <<Ball In And Out Of Play, into play>> following a <<Kick-Off, kick-off>> or <<Free Kick, free kick>>,
-the kicker is not allowed to touch the ball until it has been touched by another robot or the game has been stopped.
-
-The ball must have moved at least 0.05 meters to be considered as <<Ball In And Out Of Play, in play>>.
-
-A double touch results in a <<Stop, stop>> followed by a <<Free Kick, free kick>> from the same ball position.
-
-NOTE: It is understood that the ball may be bumped by the robot multiple times over a short distance while the kick is being taken.
-This is why a distance of 0.05 meters is used to decide whether a robot violates this rule or not.
-Remaining in contact with the ball for more than 0.05 meters also counts as double touch, even though technically the robot only touched the ball once.
-
 === Unsporting Behavior
 Unsporting behavior can lead to <<Yellow Card, yellow cards>>, <<Red Card, red cards>>, <<Penalty Kick, penalty kicks>>, a <<Forced Forfeit, forced forfeit>> or a <<Disqualification, disqualification>>. The human <<Referee, referee>> chooses an appropriate sanction, depending on the severity of the offense.
 
