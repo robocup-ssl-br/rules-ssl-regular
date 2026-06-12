@@ -96,6 +96,9 @@ The <<Referee, referee>> asks the <<Robot Handler, robot handlers>> of the teams
 
 However, if both teams prefer the same color, the referee assigns the colors by chance. In this case, the teams switch the colors after the first half of the match as well as after the first half of the overtime if applicable.
 
+==== Choosing Robot Hull Colors
+Teams are encouraged to choose their preferred <<Color of Robots, robot hull color>> (dark or bright) before the match. If both teams choose the same color, the <<Referee, referee>> assigns the colors by chance before the game starts. The selected hull color must be used throughout the game.
+
 ==== Choosing Side And Kick-Off
 The <<Referee, referee>> tosses a coin with both <<Robot Handler, robot handlers>>. The winning team chooses the goal it will attack in the first half of the match. The other team takes the <<Kick-Off, kick-off>> to start the match.
 
@@ -149,6 +152,8 @@ NOTE: As a result, the time needed for a match is much greater than the playing 
 
 ==== Timeouts
 The <<Robot Handler, robot handler>> has to ask the referee for a timeout. Timeouts are handled like <<Overview, breaks>>, meaning that both teams are allowed to make modifications to their software and hardware (see <<Autonomy>>).
+
+Any robot that has been physically interacted with during a timeout must be taken out of the field. It can be brought in again, also during the same timeout, via the area outlined in <<Robot Substitution, Robot Substitution>>.
 
 Each team is allocated 4 timeouts at the beginning of the match. A total of 300 seconds is allowed for all timeouts. Timeouts may only be taken during a game
 stoppage. The time is monitored and recorded by the <<Game Controller Operator, game controller operator>>.

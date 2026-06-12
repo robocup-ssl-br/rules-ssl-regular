@@ -34,6 +34,9 @@ It is not allowed to damage or modify robots of other teams.
 ==== Damaging The Field Or The Ball
 It is not allowed to damage or modify the field or the ball.
 
+==== Unsafe Operations
+It is not allowed to have robot failures that endanger the participants or spectators. Examples of unsafe operations include, but are not limited to: high power or high velocity uncontrolled robot operation, electronics fire, high voltage or visible arc discharge.
+
 ==== Disrespect Procedures
 Not following defined procedures repetitively, like for example:
 
@@ -66,13 +69,20 @@ red card>>.
 
 ==== Stopping Fouls
 Fouls in this section cause the game to <<Stop, stop>> and then resume
-with a <<Free Kick, free kick>> from the position where the ball was
+with a <<Free Kick, free kick>> for the opposite team from the position where the ball was
 located when the foul began happening.
 
 ===== Robot Too Close To Opponent Defense Area
 During <<Stop, stop>> and <<Free Kick, free kicks>>, before the ball <<Resuming The Game, has entered play>>, all robots have to keep at least 0.2 meters distance to the opponent <<Defense Area, defense area>>.
 
 There is a grace period of 2 seconds for the robots to move away from the opponent defense area.
+
+The game is immediately halted after the second such foul committed by the same team while the game is stopped or during a <<Free Kick, free kick>>, before the ball has entered play.
+
+NOTE: If the first foul is committed during a <<Free Kick, free kick>>, the game is still stopped regularly.
+The grace period is restarted after the first foul of the same team.
+Both fouls count towards the foul counter.
+There are no individual fouls per robot.
 
 ===== Pushing
 A robot pushes an opponent robot if both robots keep contact to the ball or to each other while the robot exerts force onto the opponent robot, such that both robots travel towards the opponent robot.
