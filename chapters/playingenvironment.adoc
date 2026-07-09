@@ -4,21 +4,16 @@
 ==== Dimensions
 The field of play must be rectangular and of the following size:
 
-* Division A: 13.4 meters times 10.4 meters with a playing area of 12 meters times 9 meters
-* Division B: 10.4 meters times 7.4 meters with a playing area of 9 meters times 6 meters
+* 10.4 meters times 7.4 meters with a playing area of 9 meters times 6 meters
 
 The exact field dimensions and the field markings at the venue may vary by up to ±10% in each linear dimension.
 
-The two figures below show the dimensions of the field, the goals and special field areas, measured in millimeters between the line centers.  <<field-dimensions-a, Figure 1>> shows the dimensions for division A and  <<field-dimensions-b, figure 2>> for division B.
+The two figures below show the dimensions of the field, the goals and special field areas, measured in millimeters between the line centers.  <<field-dimensions-b, Figure 1>> for SSL-regular.
 
 NOTE: The numbers in the figures below show the distances in millimeters between the line centers.
 
-[[field-dimensions-a]]
-.Field dimensions and markings for division A
-image::quad-size-field.svg[]
-
 [[field-dimensions-b]]
-.Field dimensions and markings for division B
+.Field dimensions and markings for SSL-regular
 image::double-size-field.svg[]
 
 ==== Field Surface
@@ -26,12 +21,9 @@ The playing surface is a green felt mat or carpet. The floor under the carpet is
 
 The field surface continues for at least 0.7 meters beyond the <<Field Lines, field lines>> on all sides. The field margin extends from the field lines to the surrounding walls:
 
-* Division A: 0.3 meters along the touch lines, 0.6 meters behind the goal lines.
-* Division B: 0.3 meters on all sides.
+* 0.3 meters on all sides.
 
 Any area beyond the walls is used as a designated walking area for the <<Referee, referee>> and the <<Assistant Referee, assistant referee>>.
-
-The extra field margin behind each goal line in Division A is used for <<Robot Substitution>>.
 
 ==== Field Markings
 The field of play is marked with lines. All lines are 0.01 meters wide and white (paint, spray, white carpet or strong tape). Lines belong to the areas of which they are boundaries.
@@ -55,26 +47,22 @@ The center circle is located at the center of the field with a diameter of 1 met
 The center is at the crossing of the <<Halfway Line, halfway line>> and the <<Goal-to-Goal Line, goal-to-goal line>>.
 
 ===== Defense Area
-A defense area is defined as a rectangle touching the goal lines centrally in front of both <<Goals, goals>>. The size of the defense area is 3.6 meters times 1.8 meters for division A and 2 meters times 1 meter for division B, as shown in figures <<field-dimensions-a, 1>> and <<field-dimensions-b, 2>> respectively.
+A defense area is defined as a rectangle touching the goal lines centrally in front of both <<Goals, goals>>. The size of the defense area is 2 meters times 1 meter, as shown in figure <<field-dimensions-b, 2>> respectively.
 
 ===== Penalty Mark
-The penalty mark defines the point from which a team executes a penalty kick against the opponent goal. It is located on the <<Goal-to-Goal Line, goal-to-goal line>> and 8 meters (division A) or 6 meters (division B) away from the opponent's goal center.
+The penalty mark defines the point from which a team executes a penalty kick against the opponent goal. It is located on the <<Goal-to-Goal Line, goal-to-goal line>> and 6 meters away from the opponent's goal center.
 
 
 ==== Goals
 Goals must be placed on the center of each goal line and anchored securely to the field surface. They consist of two 0.16 meters high vertical side walls joined at the back by a 0.16 meters high vertical rear wall. The inner face of the goal has to be covered with an energy absorbing material such as foam to help absorb ball impacts and lessen the speed of deflections. The inner goal walls are white, the outer goal walls, edges, and tops are black.
 
-The distance between the side walls is 1.8 meters for division A and 1 meter for division B, and the goal is 0.18 meters deep. The goal walls are 0.02 meters thick and touch the goal line, but do not overlap or encroach on the field lines or the field. <<goal-detail-a, Figure 3>> and <<goal-detail-b, figure 4>> show these details for division A and division B respectively.
+The distance between the side walls is 1 meter, and the goal is 0.18 meters deep. The goal walls are 0.02 meters thick and touch the goal line, but do not overlap or encroach on the field lines or the field. <<goal-detail-b, Figure 2>> show these details for SSL-regular.
 The goal side walls extend to the outside wall.
 
 NOTE: The numbers in the figures below show the distances in millimeters.
 
-[[goal-detail-a]]
-.The goal in detail for division A
-image::goal_detail_divisionA.svg[width=400]
-
 [[goal-detail-b]]
-.The goal in detail for division B
+.The goal in detail for SSL-regular
 image::goal_detail_divisionB.svg[width=400]
 
 === Ball

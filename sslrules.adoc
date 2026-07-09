@@ -1,6 +1,6 @@
 :imagesdir: images/
 
-= Rules of the RoboCup Small Size League
+= Rules of the RoboCup - Small Size League - Regular
 {docdate}
 :toc:
 :toclevels: 4

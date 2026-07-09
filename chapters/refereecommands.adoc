@@ -81,8 +81,7 @@ NOTE: The game commences directly after ball placement. The team receiving the b
 
 NOTE: It is allowed to enter the defense area during ball placement.
 
-Ball placement is mandatory for all teams in division A.
-Teams in division B may decide, at any time before or during the game, not to place the ball for the rest of the game by talking to the <<Referee, referee>>, who in turn tells the <<Game Controller Operator, game controller operator>> to disable ball placement for this team.
+Teams in may decide, at any time before or during the game, not to place the ball for the rest of the game by talking to the <<Referee, referee>>, who in turn tells the <<Game Controller Operator, game controller operator>> to disable ball placement for this team.
 In this case, the team is allowed to bring the ball into play, after the ball was placed by the opposing team.
 If the opposing team fails to place the ball or no team can place the ball, it is placed by the <<Referee, referee>> or the <<Assistant Referee, assistant referee>>.
 
@@ -180,7 +179,7 @@ The match is resumed when
 * <<Force Start, force start>> has been issued.
 * the ball moved at least 0.05 meters following a <<Kick-Off, kick-off>>, <<Free Kick, free kick>> or <<Penalty Kick, penalty kick>>.
 * 10 seconds passed following a <<Kick-Off, kick-off>>.
-* 5 seconds (Division A) or 10 seconds (Division B) passed following a <<Free Kick, free kick>>.
+* 10 seconds passed following a <<Free Kick, free kick>>.
 
 NOTE: see <<Double Touch, double touch>> for the rationale of the 0.05 meter distance
 
