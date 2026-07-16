@@ -123,7 +123,7 @@ NOTE: The information shown in this table here may be incomplete. Please read th
 | 5+| *Ball Placement*
 || <<Ball Placement Interference, BOT_INTERFERED_PLACEMENT>> | during <<Ball Placement>> | placement timer increased by 10 seconds | yes | auto referee
 || <<Ball Placement, PLACEMENT_SUCCEEDED>> | during <<Ball Placement>> | continue | no | auto referee
-|| <<Ball Placement, PLACEMENT_FAILED>> by team in favor | during <<Ball Placement>> | <<Stop>> -> <<Free Kick>> (div A) / previous command (div B) | no | game controller
+|| <<Ball Placement, PLACEMENT_FAILED>> by team in favor | during <<Ball Placement>> | Previous command | no | game controller
 || <<Ball Placement, PLACEMENT_FAILED>> by opponent | during <<Ball Placement>> | <<Stop>> | no | game controller
 
 6+| *Informational*
@@ -150,13 +150,13 @@ A visualized graph of the game events is stored as https://raw.githubusercontent
 [appendix]
 == Overview of Timings
 |===
-| Situation                                                           | Div A Time | Div B Time
+| Situation                                                           | Times
 
-| Remove robot for <<Yellow Card>>                                    | 10 s       | 10 s
-| <<Penalty Kick, penalty kick>>                                      | 10 s       | 10 s
-| <<Kick-Off, kick-off>>                                              | 10 s       | 10 s
-| <<Free Kick, free kick>>                                            |  5 s       | 10 s
-| <<Keeper Held Ball>> inside <<Defense Area>>                        |  5 s       | 10 s
-| <<No Progress In Game>>                                             |  5 s       | 10 s
+| Remove robot for <<Yellow Card>>                                    | 10 s
+| <<Penalty Kick, penalty kick>>                                      | 10 s
+| <<Kick-Off, kick-off>>                                              | 10 s
+| <<Free Kick, free kick>>                                            | 10 s
+| <<Keeper Held Ball>> inside <<Defense Area>>                        | 10 s
+| <<No Progress In Game>>                                             | 10 s
 |===
 
