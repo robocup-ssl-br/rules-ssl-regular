@@ -8,12 +8,12 @@ The field of play must be rectangular and of the following size:
 
 The exact field dimensions and the field markings at the venue may vary by up to ±10% in each linear dimension.
 
-The two figures below show the dimensions of the field, the goals and special field areas, measured in millimeters between the line centers.  <<field-dimensions-b, Figure 1>> for SSL-regular.
+The two figures below show the dimensions of the field, the goals and special field areas, measured in millimeters between the line centers.  <<field-dimensions-b, Figure 1>> for SSL-Regular.
 
 NOTE: The numbers in the figures below show the distances in millimeters between the line centers.
 
 [[field-dimensions-b]]
-.Field dimensions and markings for SSL-regular
+.Field dimensions and markings for SSL-Regular
 image::double-size-field.svg[]
 
 ==== Field Surface
@@ -56,13 +56,13 @@ The penalty mark defines the point from which a team executes a penalty kick aga
 ==== Goals
 Goals must be placed on the center of each goal line and anchored securely to the field surface. They consist of two 0.16 meters high vertical side walls joined at the back by a 0.16 meters high vertical rear wall. The inner face of the goal has to be covered with an energy absorbing material such as foam to help absorb ball impacts and lessen the speed of deflections. The inner goal walls are white, the outer goal walls, edges, and tops are black.
 
-The distance between the side walls is 1 meter, and the goal is 0.18 meters deep. The goal walls are 0.02 meters thick and touch the goal line, but do not overlap or encroach on the field lines or the field. <<goal-detail-b, Figure 2>> show these details for SSL-regular.
+The distance between the side walls is 1 meter, and the goal is 0.18 meters deep. The goal walls are 0.02 meters thick and touch the goal line, but do not overlap or encroach on the field lines or the field. <<goal-detail-b, Figure 2>> show these details for SSL-Regular.
 The goal side walls extend to the outside wall.
 
 NOTE: The numbers in the figures below show the distances in millimeters.
 
 [[goal-detail-b]]
-.The goal in detail for SSL-regular
+.The goal in detail for SSL-Regular
 image::goal_detail_divisionB.svg[width=400]
 
 === Ball
